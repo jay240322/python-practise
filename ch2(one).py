@@ -1,3 +1,5 @@
+# Write a python program to add two numbers
+
 a = int(input("enter the number :"))
 b = int(input("enter the second number :"))
 
